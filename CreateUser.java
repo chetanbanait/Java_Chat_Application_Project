@@ -3,7 +3,6 @@ import java.awt.*;
 import java.awt.event.*;
 
 public class CreateUser extends JFrame implements ActionListener {
-
     private JTextField nameField;
     private JButton createButton;
     private JButton chooseColorButton; // Button to open the color picker
